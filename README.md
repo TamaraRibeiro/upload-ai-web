@@ -1,27 +1,44 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img src=".github/preview.png" alt="Project demo" width="100%" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- ## 🖥️ Project
 
-Currently, two official plugins are available:
+This is a project using AI to summarize and transcribe Shorts by receiving a youtube URL.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Technologies
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+This project was developed during the Rocketseat's NLW-AI using the following technologies:
 
-- Configure the top-level `parserOptions` property like this:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git e Github
+- AI model: GPT 3.5
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## 👩🏻‍💻 How to run the project
+- Clone or download the ZIP file
+- To install the dependencies run:
+```
+npm install
+# ou
+yarn install
+# ou
+pnpm install
+```
+After installed run: 
+```bash
+npm run dev
+# ou
+yarn dev
+# ou
+pnpm dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 🔖 Layout
+
+You can see the project layout through
+[here](https://www.figma.com/community/file/1282823495335498952/Shorts-Summary-•-Trilha-Foundations).
+You must have an account at [Figma](https://www.figma.com) -->
